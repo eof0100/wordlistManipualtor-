@@ -30,13 +30,10 @@ I hear and I forget,<br>
 &nbsp;-&nbsp;Confucius<br>
 <br>
 <br>
-Not hearing is not as good as hearing,<br>
-hearing is not as good as seeing,<br>
-seeing is not as good as knowing,<br>
-knowing is not as good as acting;<br>
-True learning continues until it is put into action.<br>
-<br>
--&nbsp;Xunzi 
+You teach me, I forget,<br>
+You show me, I remember,<br>
+You involve me, I understand.<br>
+-&nbsp;- Edward O. Wilson
 </blockquote></i>
 
 <h4>Background</h4>
