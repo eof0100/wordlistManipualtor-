@@ -43,7 +43,7 @@ True learning continues until it is put into action.<br>
 <p>This is my first small project. I am constantly messing around with my wordlists
 using the linux built-in commands such as cat, grep, awk, sort, etc. Began learning 
 Python and I thought it would be a perfect practice project plus creating something
-that I will actually use on regular basis. If someone can benefit from it that is
+that I will actually use on a regular basis. If someone can benefit from it that is
 definitely a plus. Go easy on my coding, remember, learning in progress.<br><p>
 
 
