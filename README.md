@@ -32,7 +32,7 @@ I hear and I forget,<br>
 <br>
 You teach me, I forget,<br>
 &nbsp;You show me, I remember,<br>
-&nbsp;&nbsp;You involve me, I understand.<br>
+&nbsp;&nbsp;You involve me, I understand. <br>
 <br>
 -&nbsp;- Edward O. Wilson
 </blockquote></i>
